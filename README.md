@@ -1,13 +1,44 @@
-<h1 align="center">Hello 👋, I'm Md. Abu Raihan</h1>
-<h3 align="center">Professional Web Developer from Bangladesh.</h3>
+<h1 align="center">Md. Abu Raihan</h1>
+<h3 align="center">Professional Web Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 👀 I’m interested in PHP, MySQL, Codeilgniter, Laravel, Symfony.
-- 🌱 I’m currently learning Laravel PHP framework.
-- 💞️ I love to sing and watch movies in my leisure time.
-- 📫 If you need custom web application in PHP, MySQL, Javascript, you can contact with me. 
-- 👨‍💻 Email: raihan.cse08@gmail.com
+I am a skilled Web Application Developer with around 8+ years of experience in Web development and Database Management using PHP, MySQL, Oracle, JavaScript, jQuery, AJAX, Laravel, Symfony, CodeIgniter, WordPress, etc. 
+
+Project/Work Experience-
+• e-Banking Solutions like Customer/Nominee/Guarantor Information, Credit Facility, Mortgage/Loan Security Management, etc.
+• e-Commerce Applications like Product Upload, Inventory, Stock, Sales POS Invoicing, etc.
+• Booking/Schedule Management
+• Purchase/Raw Materials/Production Management
+• Finished Goods/Inventory/Stock Management
+• Sales/POS Invoicing/Delivery Management
+• Finance/Account Management
+• Human Resource Management
+• Customer Relationship Management
+• Asset/Property Management
+• SMS/Email/Payment Gateway Integration, etc.
+
+Software/Tools Experience-
+• Proficient in PHP, MySQL, Javascript, jQuery, AJAX, HTML, CSS, Bootstrap
+• Familiar with JSON, XML, RESTful & SOAP Services
+• Frameworks: CodeIgniter, Laravel, Symfony
+• Content Management Systems: WordPress, Joomla, Drupal
+• Web Tools: Apache, WAMP, LAMP, WinSCP, Putty, CPanel, Filezilla
+• Database Tools: MySQL, MariaDB, Oracle, Toad, phpMyAdmin, SQLyog
+• IDE Tools: Sublime Text, VS Code, Notepad++
+• Version Control: Tortoise SVN, Git, Bitbucket, JIRA
+• Platforms: Microsoft Windows, Linux Ubuntu
+
+I utilize the latest object-oriented analysis and design principles such as encapsulation, design patterns, and refactoring to make clean, reusable code and still make it a goal to read regularly about the latest programming technologies. 
+I'm constantly improving, and routinely teach myself APIs, frameworks, and even entire languages depending on what the challenge calls for. 
+If you are looking for a highly skilled and experienced web expert with deep knowledge, a professional attitude, excellent communication skills, and the highest code quality, then I’m the right person. 
+
+Portfolio Link - https://raihancse0908.github.io
+Email - raihan.cse08@gmail.com
+Skype - raihan.ahmed08
+
+Contact me for the demo project link. 
+Thank you for your time.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
