@@ -1,11 +1,12 @@
 <h1 align="center">Md. Abu Raihan</h1>
 <h3 align="center">Professional Web Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<br>
+<img align="right" alt="developer" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 I am a skilled Web Application Developer with around 8+ years of experience in Web development and Database Management using PHP, MySQL, Oracle, JavaScript, jQuery, AJAX, Laravel, Symfony, CodeIgniter, WordPress, etc. <br>
+My objective is to work with such an organization where I can grow my career and prove myself as a sincere employee. The organization that will choose me as one of their team will be able to bring out the best in me for their own advantage.<br>
+Currently, I am working at General Pharmaceuticals Ltd., the largest pharmaceuticals industry in Bangladesh where I am specialized in software analysis and development from front-end design to backend web development with optimization.<br>
 <br>
-Project/Work Experience-<br>
+Project/Work Experience -<br>
 • e-Banking Solutions like Customer/Nominee/Guarantor Information, Credit Facility, Mortgage/Loan Security Management, etc.<br>
 • e-Commerce Applications like Product Upload, Inventory, Stock, Sales POS Invoicing, etc.<br>
 • Booking/Schedule Management<br>
@@ -18,7 +19,7 @@ Project/Work Experience-<br>
 • Asset/Property Management<br>
 • SMS/Email/Payment Gateway Integration, etc.<br>
 <br>
-Software/Tools Experience-<br>
+Technical Skills -<br>
 • Proficient in PHP, MySQL, Javascript, jQuery, AJAX, HTML, CSS, Bootstrap<br>
 • Familiar with JSON, XML, RESTful & SOAP Services<br>
 • Frameworks: CodeIgniter, Laravel, Symfony<br>
@@ -33,14 +34,17 @@ I utilize the latest object-oriented analysis and design principles such as enca
 I'm constantly improving, and routinely teach myself APIs, frameworks, and even entire languages depending on what the challenge calls for. <br>
 If you are looking for a highly skilled and experienced web expert with deep knowledge, a professional attitude, excellent communication skills, and the highest code quality, then I’m the right person. <br>
 <br>
-Portfolio Link - https://raihancse0908.github.io<br>
-Email - <a href="mailto:raihan.cse08@gmail.com">raihan.cse08@gmail.com</a><br>
-Skype - raihan.ahmed08<br>
-<br>
 Contact me for the demo project link. <br>
 Thank you for your time.<br>
 <br>
-
+Regards,<br>
+M.A. Raihan<br>
+Email - <a href="mailto:raihan.cse08@gmail.com">raihan.cse08@gmail.com</a><br>
+Skype - raihan.ahmed08<br>
+Portfolio Link - https://raihancse0908.github.io<br>
+Linkedin Profile - https://www.linkedin.com/in/raihancse0908<br>
+Facebook Profile - https://facebook.com/raihancse0908<br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/raihancse0908" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taslimul-islam-b9522a190" height="30" width="40" /></a>
